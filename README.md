@@ -1,4 +1,4 @@
-# OperatingSystemsProject
+# Operating Systems Project II
 
 
 This project uses 4 different scheduling algorithms to sort text files
@@ -9,7 +9,7 @@ can see the order that each file is being sorted
 The 4 algorithms are as follows
 - First Come First Serve (FCFS)
 - Shortest job First (SJF)
-- Prority
+- Prority Scheduling (PS)
 - Round Robin (RR)
 
 Information from the config.txt file changes how each of these algorithms run. For more information please
